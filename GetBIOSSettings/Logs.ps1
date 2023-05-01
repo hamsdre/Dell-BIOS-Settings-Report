@@ -33,5 +33,43 @@ Get-WmiObject -Class win32_BIOS           | ConvertTo-Json | Out-File "$Location
 Get-WmiObject -Class win32_BaseBoard      | ConvertTo-Json | Out-File "$Location\LogFiles\WMI_BaseBoard.json"
 Get-WmiObject -Class win32_ComputerSystem | ConvertTo-Json | Out-File "$Location\LogFiles\WMI_ComputerSystem.json"
 Get-WmiObject -Class win32_Processor      | ConvertTo-Json | Out-File "$Location\LogFiles\WMI_Processor.json"
+Get-WmiObject -Class win32_Product        | ConvertTo-Json | Out-File "$Location\LogFiles\WMI_Product.json"
+
+$output = New-Object System.Collections.ArrayList
+$x86 = Get-ChildItem "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall"
 
 
+foreach ($key in $x86)
+{
+   $data   = Get-ItemProperty  $key.Name.Replace("HKEY_LOCAL_MACHINE","HKLM:")
+   $Object = New-Object pscustomobject -Property @{
+            "DisplayName"     = $data.DisplayName
+            "Publisher"       = $data.Publisher
+            "DisplayVersion"  = $data.DisplayVersion
+            "InstallLocation" = $data.InstallLocation
+            "InstallDate"     = $data.InstallDate
+            "UnisntallString" = $data.UninstallString
+            "Hive"            = "x86"
+      }
+   $output.Add($Object) | Out-Null
+}
+
+$x64 = Get-ChildItem "HKLM:\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall"
+foreach ($key in $x64)
+{
+   $data   = Get-ItemProperty $key.Name.Replace("HKEY_LOCAL_MACHINE","HKLM:")
+   $Object = New-Object pscustomobject -Property @{
+            "DisplayName"     = $data.DisplayName
+            "Publisher"       = $data.Publisher
+            "DisplayVersion"  = $data.DisplayVersion
+            "InstallLocation" = $data.InstallLocation
+            "InstallDate"     = $data.InstallDate
+            "UnisntallString" = $data.UninstallString
+            "Hive"            = "x64"
+      }
+   $output.Add($Object) | Out-Null
+}
+
+$output | ConvertTo-Json | Out-File "$Location\LogFiles\REG_Product.json"
+reg export "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall" "$Location\LogFiles\x86_Product.reg"
+reg export "HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Uninstall" "$Location\LogFiles\x64_Product.reg"
