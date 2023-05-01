@@ -1,0 +1,2189 @@
+[
+  {
+    "UnisntallString": "\"C:\\Program Files\\7-Zip\\Uninstall.exe\"",
+    "InstallLocation": "C:\\Program Files\\7-Zip\\",
+    "DisplayName": "7-Zip 21.07 (x64)",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": "21.07",
+    "Publisher": "Igor Pavlov"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files\\CPUID\\ASUS CPU-Z\\unins000.exe\"",
+    "InstallLocation": "C:\\Program Files\\CPUID\\ASUS CPU-Z\\",
+    "DisplayName": "CPUID ASUS CPU-Z 1.97",
+    "InstallDate": "20220308",
+    "Hive": "x86",
+    "DisplayVersion": "1.97",
+    "Publisher": "CPUID, Inc."
+  },
+  {
+    "UnisntallString": "C:\\Program Files\\Dell\\Dell Peripheral Manager\\Uninstall.exe",
+    "InstallLocation": null,
+    "DisplayName": "Dell Peripheral Manager",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": "1.6.6",
+    "Publisher": "Dell Inc."
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files\\Common Files\\Microsoft Shared\\ClickToRun\\OfficeClickToRun.exe\" scenario=install scenariosubtype=ARP sourcetype=None productstoremove=O365HomePremRetail.16_en-us_x-none culture=en-us version.16=16.0",
+    "InstallLocation": "C:\\Program Files\\Microsoft Office",
+    "DisplayName": "Microsoft 365 - en-us",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": "16.0.16227.20280",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "C:\\Program Files\\Microsoft OneDrive\\23.076.0409.0001\\OneDriveSetup.exe  /uninstall  /allusers ",
+    "InstallLocation": null,
+    "DisplayName": "Microsoft OneDrive",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": "23.076.0409.0001",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/1091500",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Cyberpunk 2077",
+    "DisplayName": "Cyberpunk 2077",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "CD PROJEKT RED"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/1143810",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Black Skylands",
+    "DisplayName": "Black Skylands",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Hungry Couch Games"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/1158310",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Crusader Kings III",
+    "DisplayName": "Crusader Kings III",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Paradox Development Studio"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/1184370",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Pathfinder Second Adventure",
+    "DisplayName": "Pathfinder: Wrath of the Righteous",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Owlcat Games"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/1222670",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\The Sims 4",
+    "DisplayName": "The Sims™ 4",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Maxis"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/1336490",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Against the Storm",
+    "DisplayName": "Against the Storm",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Eremite Games"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/1466860",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Age of Empires IV",
+    "DisplayName": "Age of Empires IV",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Relic Entertainment"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/1649080",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Two Point Campus",
+    "DisplayName": "Two Point Campus",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Two Point Studios"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/1794680",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Vampire Survivors",
+    "DisplayName": "Vampire Survivors",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "poncle"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/257350",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Baldur's Gate II Enhanced Edition",
+    "DisplayName": "Baldur's Gate II: Enhanced Edition",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Beamdog"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/289070",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Sid Meier's Civilization VI",
+    "DisplayName": "Sid Meier's Civilization VI",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Firaxis Games"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/377160",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Fallout 4",
+    "DisplayName": "Fallout 4",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Bethesda Game Studios"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/457140",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\OxygenNotIncluded",
+    "DisplayName": "Oxygen Not Included",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Klei Entertainment"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/489830",
+    "InstallLocation": "",
+    "DisplayName": "The Elder Scrolls V: Skyrim Special Edition",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Bethesda Game Studios"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/492720",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Tropico 6",
+    "DisplayName": "Tropico 6",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Limbic Entertainment"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Steam\\steam.exe\" steam://uninstall/529340",
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\Victoria 3",
+    "DisplayName": "Victoria 3",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": "Paradox Development Studio"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files\\VideoLAN\\VLC\\uninstall.exe\"",
+    "InstallLocation": "C:\\Program Files\\VideoLAN\\VLC",
+    "DisplayName": "VLC media player",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": "3.0.17.4",
+    "Publisher": "VideoLAN"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{085E2365-0A70-4230-B664-02D5E4FE7E9C}",
+    "InstallLocation": "",
+    "DisplayName": "WD_BLACK AN1500",
+    "InstallDate": "20220308",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.14.0",
+    "Publisher": "ENE TECHNOLOGY INC."
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{11479679-5C7F-477F-869F-3ED956CE684D}",
+    "InstallLocation": "",
+    "DisplayName": "PowerShell 7-x64",
+    "InstallDate": "20230424",
+    "Hive": "x86",
+    "DisplayVersion": "7.3.4.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{187C21E1-6F22-4132-A71C-573CE834D5C4}",
+    "InstallLocation": "",
+    "DisplayName": "Intel(R) ME WMI Provider",
+    "InstallDate": "20230411",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.0.0",
+    "Publisher": "Intel Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Intel Package Cache {1CEAC85D-2590-4760-800F-8DE5E91F3700}\\Setup.exe\" -uninstall",
+    "InstallLocation": "C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components",
+    "DisplayName": "Intel(R) Management Engine Components",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": "2302.4.5.0",
+    "Publisher": "Intel Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{1D0AC7F1-2B34-44AF-91F6-88757D768DA7}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft .NET Host - 6.0.16 (x64)",
+    "InstallDate": "20230414",
+    "Hive": "x86",
+    "DisplayVersion": "48.67.58427",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{1D8E6291-B0D5-35EC-8441-6616F567A0F7}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+    "InstallDate": "20220309",
+    "Hive": "x86",
+    "DisplayVersion": "10.0.40219",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{1F9C282E-CCB4-4D8E-A5CB-7B74DFCD8C95}",
+    "InstallLocation": "",
+    "DisplayName": "Patriot Viper DRAM RGB",
+    "InstallDate": "20230313",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.9.5",
+    "Publisher": "Patriot Memory"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{237E1CAC-1708-4940-AC34-DF15C079AB70}",
+    "InstallLocation": "",
+    "DisplayName": "ASUS AURA Extension Card HAL",
+    "InstallDate": "20220907",
+    "Hive": "x86",
+    "DisplayVersion": "1.1.0.18",
+    "Publisher": "ASUSTeK COMPUTER INC."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{2D87BFB6-C184-4A59-9BBE-3E20CE797631}",
+    "InstallLocation": "",
+    "DisplayName": "ROG Live Service",
+    "InstallDate": "20230308",
+    "Hive": "x86",
+    "DisplayVersion": "2.0.6.0",
+    "Publisher": "ASUSTek COMPUTER INC."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{37A48B7F-D4EA-4863-844E-A284E2AA3C5D}",
+    "InstallLocation": "",
+    "DisplayName": "ENE_EHD_M2_HAL",
+    "InstallDate": "20230313",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.10.1",
+    "Publisher": "ENE TECHNOLOGY INC."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{37B7CAB1-4AF3-4D04-97EF-D74CF58A0320}",
+    "InstallLocation": "",
+    "DisplayName": "Intel(R) Management Engine Components",
+    "InstallDate": "20230411",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.0.0",
+    "Publisher": "Intel Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{37B8F9C7-03FB-3253-8781-2517C99D7C00}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030",
+    "InstallDate": "20220710",
+    "Hive": "x86",
+    "DisplayVersion": "11.0.61030",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{38624EB5-356D-4B08-8357-C33D89A5C0C5}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.32.31326",
+    "InstallDate": "20220608",
+    "Hive": "x86",
+    "DisplayVersion": "14.32.31326",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{399B6DA7-B609-426E-95F8-B9A83FB7D06E}",
+    "InstallLocation": "",
+    "DisplayName": "AniMe Matrix MB EN",
+    "InstallDate": "20230313",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.1",
+    "Publisher": "ASUS"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{3BB621CF-3A0C-4D00-8E45-3E65442C6EE2}",
+    "InstallLocation": "C:\\Program Files\\PowerToys\\",
+    "DisplayName": "PowerToys (Preview)",
+    "InstallDate": "20230418",
+    "Hive": "x86",
+    "DisplayVersion": "0.69.1",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{3C3CA326-3F1D-43B7-B0AD-CBC06B2DED5A}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft .NET Host FX Resolver - 6.0.8 (x64)",
+    "InstallDate": "20220810",
+    "Hive": "x86",
+    "DisplayVersion": "48.35.45462",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{4EBEAC95-76BC-46A8-8644-6E2F1C87CF70}",
+    "InstallLocation": "",
+    "DisplayName": "ASUS AURA Motherboard HAL",
+    "InstallDate": "20230313",
+    "Hive": "x86",
+    "DisplayVersion": "1.3.9.1",
+    "Publisher": "ASUSTeK COMPUTER INC."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{5BEE5F3E-4D78-4DE8-A8F3-36D3E9D8868C}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Windows Desktop Runtime - 3.1.32 (x64)",
+    "InstallDate": "20221215",
+    "Hive": "x86",
+    "DisplayVersion": "24.192.31915",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{5FCE6D76-F5DC-37AB-B2B8-22AB8CEDB1D4}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161",
+    "InstallDate": "20220612",
+    "Hive": "x86",
+    "DisplayVersion": "9.0.30729.6161",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{605108C1-153E-43D8-8A67-7CE326B00ECA}",
+    "InstallLocation": "",
+    "DisplayName": "ROGFontInstaller",
+    "InstallDate": "20230313",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.0",
+    "Publisher": "ASUS"
+  },
+  {
+    "UnisntallString": "C:\\WINDOWS\\system32\\sdbinst.exe -u \"C:\\WINDOWS\\AppPatch\\CustomSDB\\{62a24b39-0106-4990-90ea-3a09e9dda7a6}.sdb\"",
+    "InstallLocation": null,
+    "DisplayName": "HoMM III Compatibility Database",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{6FB66775-BB93-4D0A-9871-4CC9B2E87BF3}",
+    "InstallLocation": "",
+    "DisplayName": "AURA DRAM Component",
+    "InstallDate": "20230313",
+    "Hive": "x86",
+    "DisplayVersion": "1.1.23",
+    "Publisher": "ASUS"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{71BB96A6-EAC4-45AE-A17D-D3ED43FF1D14}",
+    "InstallLocation": "",
+    "DisplayName": "ASUS AURA VGA Component",
+    "InstallDate": "20220308",
+    "Hive": "x86",
+    "DisplayVersion": "0.0.4.3",
+    "Publisher": "ASUSTek COMPUTER INC. "
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{7CEA3ABF-FE24-42AF-ADE6-B4A3EE346743}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft .NET Runtime - 6.0.8 (x64)",
+    "InstallDate": "20220810",
+    "Hive": "x86",
+    "DisplayVersion": "48.35.45462",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{805626FF-2BC9-4567-A71E-A76A470D000A}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Windows Desktop Runtime - 6.0.16 (x64)",
+    "InstallDate": "20230414",
+    "Hive": "x86",
+    "DisplayVersion": "48.67.58484",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{80E278C3-C089-4D7E-B83A-9C75A691F526}",
+    "InstallLocation": "",
+    "DisplayName": "Intel(R) Serial IO",
+    "InstallDate": "20230411",
+    "Hive": "x86",
+    "DisplayVersion": "30.100.2237.26",
+    "Publisher": "Intel Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{826388E4-E31F-4514-948B-3BB954FB3EAF}",
+    "InstallLocation": "",
+    "DisplayName": "Universal Holtek RGB DRAM",
+    "InstallDate": "20230313",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.0.4",
+    "Publisher": "PD"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{873AF7BE-A472-4DC2-8095-5B341F567C98}",
+    "InstallLocation": "",
+    "DisplayName": "Intel(R) Icls",
+    "InstallDate": "20230411",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.0.0",
+    "Publisher": "Intel Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{8A8E3A04-83BC-4CDE-9259-893B666C1AB1}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft .NET Core Host - 3.1.32 (x64)",
+    "InstallDate": "20221215",
+    "Hive": "x86",
+    "DisplayVersion": "24.192.31915",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{8B4C0A3D-C135-4E1F-98D8-3926494B4D61}",
+    "InstallLocation": "",
+    "DisplayName": "Patriot Viper M2 SSD RGB",
+    "InstallDate": "20220907",
+    "Hive": "x86",
+    "DisplayVersion": "1.1.0.2",
+    "Publisher": "Patriot Memory"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{90160000-007E-0000-1000-0000000FF1CE}",
+    "InstallLocation": "",
+    "DisplayName": "Office 16 Click-to-Run Licensing Component",
+    "InstallDate": "20230407",
+    "Hive": "x86",
+    "DisplayVersion": "16.0.16227.20204",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{90160000-008C-0000-1000-0000000FF1CE}",
+    "InstallLocation": "",
+    "DisplayName": "Office 16 Click-to-Run Extensibility Component",
+    "InstallDate": "20230304",
+    "Hive": "x86",
+    "DisplayVersion": "16.0.16130.20218",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{929FBD26-9020-399B-9A7A-751D61F0B942}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005",
+    "InstallDate": "20220525",
+    "Hive": "x86",
+    "DisplayVersion": "12.0.21005",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{965CDF5F-901C-476F-B3A8-7396701B1129}",
+    "InstallLocation": "",
+    "DisplayName": "Kingston AURA DRAM Component",
+    "InstallDate": "20230313",
+    "Hive": "x86",
+    "DisplayVersion": "1.1.18",
+    "Publisher": "KINGSTON COMPONENTS INC."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{966E33F0-6786-4B38-AA29-C1B3F6C1955D}",
+    "InstallLocation": "",
+    "DisplayName": "PHISON HAL",
+    "InstallDate": "20220308",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.9.0",
+    "Publisher": "PHISON Electronics Corp."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{998249B1-6913-447E-AA37-F445B8CA33D0}",
+    "InstallLocation": "",
+    "DisplayName": "ASUS Aac_GmAcc HAL",
+    "InstallDate": "20230313",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.11.0",
+    "Publisher": "ASUSTek COMPUTER INC."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Intel\\Package Cache\\{9FD91C5C-44AE-4D9D-85BE-AE52816B0294}\\Setup.exe\" -uninstall",
+    "InstallLocation": "C:\\Program Files\\Intel\\Intel(R) Serial IO",
+    "DisplayName": "Intel(R) Serial IO",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": "30.100.2237.26",
+    "Publisher": "Intel Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{A49A0C51-914A-36A0-B6C2-D34A4BF8710A}",
+    "InstallLocation": "",
+    "DisplayName": "Google Chrome",
+    "InstallDate": "20220308",
+    "Hive": "x86",
+    "DisplayVersion": "112.0.5615.138",
+    "Publisher": "Google LLC"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{A741B803-3F0E-4684-81EF-FC128D15A92C}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft .NET Core Runtime - 3.1.32 (x64)",
+    "InstallDate": "20221215",
+    "Hive": "x86",
+    "DisplayVersion": "24.192.31915",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{A749D8E6-B613-3BE3-8F5F-045C84EBA29B}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005",
+    "InstallDate": "20220525",
+    "Hive": "x86",
+    "DisplayVersion": "12.0.21005",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{A78E52FB-5921-0A22-5D0B-212641047CF4}",
+    "InstallLocation": "",
+    "DisplayName": "Aura Wallpaper Service",
+    "InstallDate": "20230313",
+    "Hive": "x86",
+    "DisplayVersion": "1.4.7.2",
+    "Publisher": "ASUSTeK COMPUTER INC."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{ABC6B3C2-1A8D-4C5E-AC16-C2AE44F02743}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft .NET Core Host FX Resolver - 3.1.32 (x64)",
+    "InstallDate": "20221215",
+    "Hive": "x86",
+    "DisplayVersion": "24.192.31915",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\WINDOWS\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage Display.Driver",
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.Driver.{2AE4AFB4-3DA0-465C-962B-E79A81F178AA}",
+    "DisplayName": "NVIDIA Graphics Driver 531.68",
+    "InstallDate": "20230419",
+    "Hive": "x86",
+    "DisplayVersion": "531.68",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\WINDOWS\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage Display.GFExperience",
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.GFExperience.{7745CC58-6D76-4096-8EF1-3DCF12EB9A76}",
+    "DisplayName": "NVIDIA GeForce Experience 3.27.0.112",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "3.27.0.112",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.Optimus.{26CC6D67-E95C-4ACF-8210-EA6862A9CE97}",
+    "DisplayName": "NVIDIA Optimus Update 39.5.0.0",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "39.5.0.0",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\WINDOWS\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage Display.PhysX",
+    "InstallLocation": "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX",
+    "DisplayName": "NVIDIA PhysX System Software 9.21.0713",
+    "InstallDate": "20230208",
+    "Hive": "x86",
+    "DisplayVersion": "9.21.0713",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\Display.Update.{692D6D60-D8EA-44B6-95AA-D18355FDF178}",
+    "DisplayName": "NVIDIA Update 39.5.0.0",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "39.5.0.0",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\WINDOWS\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage FrameViewSdk",
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK",
+    "DisplayName": "NVIDIA FrameView SDK 1.3.8513.32290073",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "1.3.8513.32290073",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\NvStreamSrv",
+    "DisplayName": "NVIDIA SHIELD Streaming",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "7.1.32193813",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\GpxCommon.Oss.{BFAFA9D5-37DC-43C5-9C3D-A3300AF257C3}",
+    "DisplayName": "NVIDIA GPX Common OSS binaries (POCO, OpenSSL, libprotobuf)",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "7.1",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\WINDOWS\\SysWOW64\\RunDll32.EXE\" \"C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.DLL\",UninstallPackage HDAudio.Driver",
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\HDAudio.Driver.{E5360053-8CD8-4C45-8A5E-61604A64B9F2}",
+    "DisplayName": "NVIDIA HD Audio Driver 1.3.40.14",
+    "InstallDate": "20230419",
+    "Hive": "x86",
+    "DisplayVersion": "1.3.40.14",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore",
+    "DisplayName": "NVIDIA Install Application",
+    "InstallDate": "20230419",
+    "Hive": "x86",
+    "DisplayVersion": "2.1002.390.0",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files (x86)\\NVIDIA Corporation\\Update Core",
+    "DisplayName": "NVIDIA Backend",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "39.5.0.0",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\NvContainer",
+    "DisplayName": "NVIDIA Container",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "1.37",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.ContainerTelemetryApiHelper.{D854EF19-2D1D-44D6-AF7A-4E185F86A3F2}",
+    "DisplayName": "NVIDIA TelemetryApi helper for NvContainer",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "1.37",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.LocalSystem.{4BDA27C0-195B-45C4-AF90-5BEA626D83AE}",
+    "DisplayName": "NVIDIA LocalSystem Container",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "1.37",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.MessageBus.{651AE331-923E-4BF7-9AAD-C45DE554A321}",
+    "DisplayName": "NVIDIA Message Bus for NvContainer",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "1.34",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.NvapiMonitor.{37AEF55E-0C11-4F8A-BF04-F39BF979731A}",
+    "DisplayName": "NVIDIA NVAPI Monitor plugin for NvContainer",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "1.0",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.ServiceUser.{D6A61CEC-5803-4C88-8F5B-78A307FE94D0}",
+    "DisplayName": "NVIDIA NetworkService Container",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "1.37",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.Session.{5C766F65-CDD6-41F9-9A7E-BA58A305A3C9}",
+    "DisplayName": "NVIDIA Session Container",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "1.37",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvContainer.User.{969B40FD-7995-4529-80E8-54649930D9FD}",
+    "DisplayName": "NVIDIA User Container",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "1.37",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvModuleTracker.Driver.{4F54CB1C-5001-41AE-BC44-62FFFC1172D5}",
+    "DisplayName": "NVIDIA NvModuleTracker",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "6.14.25214.24630",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files (x86)\\NVIDIA Corporation\\NvNode",
+    "DisplayName": "NVIDIA NodeJS",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "3.27.0.112",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvPlugin.Watchdog.{CED7F872-2FF0-4DC4-AB8D-9BA313469DA7}",
+    "DisplayName": "NVIDIA Watchdog Plugin for NvContainer",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "1.37",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\NvTelemetry",
+    "DisplayName": "NVIDIA Telemetry Client",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "17.1.7.0",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\NvVHCI.{4E4AAA70-050E-49F5-9200-7E22C32DD3D9}",
+    "DisplayName": "NVIDIA Virtual Host Controller",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "3.05.0.1",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\OSC.{5828B987-C732-44F1-A710-8FDD02D964F3}",
+    "DisplayName": "Nvidia Share",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "3.27.0.112",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\ShadowPlay",
+    "DisplayName": "NVIDIA ShadowPlay 3.27.0.112",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "3.27.0.112",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\ShieldWirelessController.{38482FC6-1A47-4C87-8ABF-9130C42BA886}",
+    "DisplayName": "NVIDIA SHIELD Wireless Controller Driver",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "3.27.0.94",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files (x86)\\NVIDIA Corporation\\Update Core",
+    "DisplayName": "NVIDIA Update Core",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "39.5.0.0",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\VirtualAudio.Driver.{A75BB5C9-00A3-41B9-BFC8-E2B3F18439E9}",
+    "DisplayName": "NVIDIA Virtual Audio 4.49.0.0",
+    "InstallDate": "20230203",
+    "Hive": "x86",
+    "DisplayVersion": "4.49.0.0",
+    "Publisher": "NVIDIA Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{B8537ACA-B210-4DF5-B928-E41CEB76723D}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft .NET Host FX Resolver - 6.0.16 (x64)",
+    "InstallDate": "20230414",
+    "Hive": "x86",
+    "DisplayVersion": "48.67.58427",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{C5A4A164-4428-4931-B728-96EEF0FA3C44}",
+    "InstallLocation": "",
+    "DisplayName": "AURA lighting effect add-on x64",
+    "InstallDate": "20230222",
+    "Hive": "x86",
+    "DisplayVersion": "0.0.28",
+    "Publisher": "ASUS"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{C6A1126A-6ED6-4231-BA48-4DA77986FA1C}",
+    "InstallLocation": "",
+    "DisplayName": "Intel(R) Chipset Device Software",
+    "InstallDate": "20220914",
+    "Hive": "x86",
+    "DisplayVersion": "10.1.18950.8298",
+    "Publisher": "Intel Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{C71E93D2-B8B4-4858-B2A1-4C967DBC1C5F}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft .NET Runtime - 6.0.16 (x64)",
+    "InstallDate": "20230414",
+    "Hive": "x86",
+    "DisplayVersion": "48.67.58427",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{C96241EA-9900-4FE8-85B3-1E238D509DF6}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.32.31326",
+    "InstallDate": "20220608",
+    "Hive": "x86",
+    "DisplayVersion": "14.32.31326",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030",
+    "InstallDate": "20220710",
+    "Hive": "x86",
+    "DisplayVersion": "11.0.61030",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{CF8E6E00-9C03-4440-81C0-21FACB921A6B}",
+    "InstallLocation": "",
+    "DisplayName": "ASUS Aura SDK",
+    "InstallDate": "20230222",
+    "Hive": "x86",
+    "DisplayVersion": "3.04.20",
+    "Publisher": "ASUSTek COMPUTER INC."
+  },
+  {
+    "UnisntallString": "C:\\WINDOWS\\system32\\sdbinst.exe -u \"C:\\WINDOWS\\AppPatch\\CustomSDB\\{dcdaa2fd-eaac-4ab0-9ece-f3df127a6c45}.sdb\"",
+    "InstallLocation": null,
+    "DisplayName": "Citrix Workspace",
+    "InstallDate": null,
+    "Hive": "x86",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{E050E98C-5524-4AFB-9E53-97700BEF2C02}",
+    "InstallLocation": "",
+    "DisplayName": "ENE RGB HAL",
+    "InstallDate": "20230313",
+    "Hive": "x86",
+    "DisplayVersion": "1.1.40.3",
+    "Publisher": "Ene Tech."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{E68BBC18-9E69-436B-B20F-E294DE62ECAB}",
+    "InstallLocation": "",
+    "DisplayName": "Paradox Launcher v2",
+    "InstallDate": "20220308",
+    "Hive": "x86",
+    "DisplayVersion": "2.3.0",
+    "Publisher": "Paradox Interactive"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{E7876756-2BAA-4DD5-9017-83540556B45F}",
+    "InstallLocation": "",
+    "DisplayName": "Intel(R) Management Engine Driver",
+    "InstallDate": "20230411",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.0.0",
+    "Publisher": "Intel Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files\\Microsoft VS Code\\unins000.exe\"",
+    "InstallLocation": "C:\\Program Files\\Microsoft VS Code\\",
+    "DisplayName": "Microsoft Visual Studio Code",
+    "InstallDate": "20230430",
+    "Hive": "x86",
+    "DisplayVersion": "1.77.3",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{EAE80DED-1A39-41C5-9F60-87CC947F6454}",
+    "InstallLocation": "",
+    "DisplayName": "ASUS AIOFan HAL",
+    "InstallDate": "20230313",
+    "Hive": "x86",
+    "DisplayVersion": "1.1.52.0",
+    "Publisher": "ASUSTek COMPUTER INC."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{EB3983F9-3D60-456D-A11A-C1366C79AD3E}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Windows Desktop Runtime - 6.0.8 (x64)",
+    "InstallDate": "20220810",
+    "Hive": "x86",
+    "DisplayVersion": "48.35.45540",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{ED6E62D5-0A7C-4A60-A0FC-11212270A3EE}",
+    "InstallLocation": "",
+    "DisplayName": "Dynamic Application Loader Host Interface Service",
+    "InstallDate": "20230411",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.0.0",
+    "Publisher": "Intel Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{EF3944FF-2501-4568-B15C-5701E726719E}",
+    "InstallLocation": "",
+    "DisplayName": "ARMOURY CRATE Lite Service",
+    "InstallDate": "20220308",
+    "Hive": "x86",
+    "DisplayVersion": "5.4.10",
+    "Publisher": "ASUS"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{EF9EBC42-6969-45CE-A8D2-B9249B00C838}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Update Health Tools",
+    "InstallDate": "20230124",
+    "Hive": "x86",
+    "DisplayVersion": "5.69.0.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{F9C5C994-F6B9-4D75-B3E7-AD01B84073E9}",
+    "InstallLocation": "",
+    "DisplayName": "Epic Games Launcher Prerequisites (x64)",
+    "InstallDate": "20220308",
+    "Hive": "x86",
+    "DisplayVersion": "1.0.0.0",
+    "Publisher": "Epic Games, Inc."
+  },
+  {
+    "UnisntallString": "\"E:\\Games\\GoG\\HoMM 3 Complete\\unins000.exe\"",
+    "InstallLocation": "E:\\Games\\GoG\\HoMM 3 Complete\\",
+    "DisplayName": "Heroes of Might and Magic 3 Complete",
+    "InstallDate": "20220507",
+    "Hive": "x64",
+    "DisplayVersion": "4.0",
+    "Publisher": "GOG.com"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Battle.net\\Agent\\Blizzard Uninstaller.exe\" --lang=enUS --uid=battle.net --displayname=\"Battle.net\"",
+    "InstallLocation": "C:\\Program Files (x86)\\Battle.net",
+    "DisplayName": "Battle.net",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": "Blizzard Entertainment"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Citrix\\Citrix WorkSpace 2302\\TrolleyExpress.exe\" /uninstall /cleanup",
+    "InstallLocation": "C:\\PROGRAM FILES (X86)\\CITRIX\\",
+    "DisplayName": "Citrix Workspace 2302",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "23.2.0.38",
+    "Publisher": "Cloud Software Group, Inc."
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"E:\\Games\\GoG\\HoMM 3 Complete\\Uninstall_HotA\\unins000.exe\"",
+    "InstallLocation": "E:\\Games\\GoG\\HoMM 3 Complete\\",
+    "DisplayName": "Heroes of Might and Magic® III: Horn of the Abyss",
+    "InstallDate": "20230412",
+    "Hive": "x64",
+    "DisplayVersion": "1.6.1",
+    "Publisher": "HotA Crew"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\112.0.1722.64\\Installer\\setup.exe\" --uninstall --msedge --channel=stable --system-level --verbose-logging",
+    "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
+    "DisplayName": "Microsoft Edge",
+    "InstallDate": "20230429",
+    "Hive": "x64",
+    "DisplayVersion": "112.0.1722.64",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": "Microsoft Edge Update",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.3.173.55",
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\112.0.1722.64\\Installer\\setup.exe\" --uninstall --msedgewebview --system-level --verbose-logging",
+    "InstallLocation": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application",
+    "DisplayName": "Microsoft Edge WebView2 Runtime",
+    "InstallDate": "20230430",
+    "Hive": "x64",
+    "DisplayVersion": "112.0.1722.64",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "\"E:\\Games\\Might & Magic - Heroes 7\\unins000.exe\"",
+    "InstallLocation": "E:\\Games\\Might & Magic - Heroes 7\\",
+    "DisplayName": "Might & Magic: Heroes 7",
+    "InstallDate": "20230418",
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Notepad++\\uninstall.exe\"",
+    "InstallLocation": null,
+    "DisplayName": "Notepad++ (32-bit x86)",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "8.4.8",
+    "Publisher": "Notepad++ Team"
+  },
+  {
+    "UnisntallString": "C:\\Program Files\\obs-studio\\uninstall.exe",
+    "InstallLocation": null,
+    "DisplayName": "OBS Studio",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "27.2.4",
+    "Publisher": "OBS Project"
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\OpenAL\\oalinst.exe\" /U",
+    "InstallLocation": null,
+    "DisplayName": "OpenAL",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "C:\\Program Files (x86)\\Origin\\OriginUninstall.exe",
+    "InstallLocation": "C:\\Program Files (x86)\\Origin",
+    "DisplayName": "Origin",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "10.5.115.51547",
+    "Publisher": "Electronic Arts, Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files\\qBittorrent\\uninst.exe\"",
+    "InstallLocation": null,
+    "DisplayName": "qBittorrent 4.4.1",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "4.4.1",
+    "Publisher": "The qBittorrent project"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "C:\\Program Files (x86)\\Steam\\uninstall.exe",
+    "InstallLocation": null,
+    "DisplayName": "Steam",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "2.10.91.91",
+    "Publisher": "Valve Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\Zscaler\\ZSAInstaller\\uninstall.exe\"",
+    "InstallLocation": "C:\\Program Files (x86)\\Zscaler",
+    "DisplayName": "Zscaler",
+    "InstallDate": "20230429",
+    "Hive": "x64",
+    "DisplayVersion": "4.0.0.80",
+    "Publisher": "Zscaler Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{021d69c3-d686-4a94-8fb5-fd1ee782fb14}\\GameSDK.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "GameSDK Service",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.0.5.0",
+    "Publisher": "ASUSTek COMPUTER INC."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{05050F9C-B6C7-446C-B2B9-4C03DB2E79E2}",
+    "InstallLocation": "",
+    "DisplayName": "Citrix Authentication Manager",
+    "InstallDate": "20230222",
+    "Hive": "x64",
+    "DisplayVersion": "23.3.0.5",
+    "Publisher": "Cloud Software Group, Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{050d4fc8-5d48-4b8f-8972-47c82c46020f}\\vcredist_x64.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "12.0.30501.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "RunDll32 C:\\PROGRA~2\\COMMON~1\\INSTAL~1\\engine\\6\\INTEL3~1\\Ctor.dll,LaunchSetup \"C:\\Program Files (x86)\\InstallShield Installation Information\\{06EA142E-8DA4-4917-8AD5-443F483B502D}\\Setup.exe\" -l0x9 ",
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{0c8df523-2e1e-44cf-a31a-7acf27a78596}\\PowerShell-7.3.4-win-x64.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "PowerShell 7.3.4.0-x64",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "7.3.4.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{0eddeab6-01c1-4cf7-83ba-164ea8974c90}\\windowsdesktop-runtime-3.1.32-win-x64.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Microsoft Windows Desktop Runtime - 3.1.32 (x64)",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "3.1.32.31915",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{13A4EE12-23EA-3371-91EE-EFB36DDFFF3E}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+    "InstallDate": "20220525",
+    "Hive": "x64",
+    "DisplayVersion": "12.0.21005",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{179f415f-2ff3-4db1-bcc1-d5730f746db8}\\AacSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "AURA DRAM Component",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.1.23",
+    "Publisher": "ASUS"
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{1b103cea-f037-4504-81de-956057b442c3}\\vcredist_x64.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "12.0.30501.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{1E2EA04B-FCA7-457E-B6F4-F33E1858E859}",
+    "InstallLocation": "",
+    "DisplayName": "AURA lighting effect add-on",
+    "InstallDate": "20230222",
+    "Hive": "x64",
+    "DisplayVersion": "0.0.28",
+    "Publisher": "ASUS"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{1F2B6AF3-C260-8666-5950-E3FEDBC851D6}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft GameInput",
+    "InstallDate": "20230322",
+    "Hive": "x64",
+    "DisplayVersion": "10.1.22621.3036",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{209F4B4B-3DF2-4825-9906-D4D6A80EC09E}",
+    "InstallLocation": "C:\\Program Files (x86)\\Epic Games\\",
+    "DisplayName": "Epic Games Launcher",
+    "InstallDate": "20220308",
+    "Hive": "x64",
+    "DisplayVersion": "1.3.0.0",
+    "Publisher": "Epic Games, Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{2357b106-49af-4bc9-89fb-9cb87de7be9d}\\AacAIOFanSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "ASUS AIOFan HAL",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.1.52.0",
+    "Publisher": "ASUSTek COMPUTER INC."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{2d507699-404c-4c8b-a54a-38e352f32cdd}\\VC_redist.x64.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.32.31326",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "14.32.31326.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "C:\\Program Files (x86)\\InstallShield Installation Information\\{2dfe216d-3481-4684-ad4d-2566bd7cfe4f}\\Setup.exe -uninstall",
+    "InstallLocation": null,
+    "DisplayName": "ROG FAN XPERT 4",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "2.02.03",
+    "Publisher": "ASUSTek Computer Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{2fc4816b-566a-4170-9b4d-1dc8bad8a164}\\AacMBSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "ASUS AURA Motherboard HAL",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.3.9.1",
+    "Publisher": "ASUSTeK COMPUTER INC."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{31850f16-ce9f-4dec-81ca-222c617a9115}\\AacPatriotDRAMSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Patriot Viper DRAM RGB",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.0.9.5",
+    "Publisher": "Patriot Memory"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{32C68D93-D32F-4B01-8250-61642BFC22F8}",
+    "InstallLocation": "",
+    "DisplayName": "Epic Online Services",
+    "InstallDate": "20220308",
+    "Hive": "x64",
+    "DisplayVersion": "2.0.28.0",
+    "Publisher": "Epic Games, Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\InstallShield Installation Information\\{339A6383-7862-46DA-8A9D-E84180EF9424}\\FrameworkServiceSetup.exe\" /uninstall",
+    "InstallLocation": "C:\\Program Files (x86)\\ASUS\\ArmouryDevice",
+    "DisplayName": "ASUS Framework Service",
+    "InstallDate": "20230313",
+    "Hive": "x64",
+    "DisplayVersion": "3.1.3.2",
+    "Publisher": "ASUSTeK Computer Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}\\vcredist_x86.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "11.0.61030.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "RunDll32 C:\\PROGRA~2\\COMMON~1\\INSTAL~1\\engine\\6\\INTEL3~1\\Ctor.dll,LaunchSetup \"C:\\Program Files (x86)\\InstallShield Installation Information\\{3EA3D312-6FBA-422F-BC4E-F6072B75E506}\\Setup.exe\" -l0x9 ",
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{41d7b770-418a-43b7-95a5-f925fff05789}\\VC_redist.x86.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.31.31103",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "14.31.31103.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{43a03b9c-4770-409c-a999-587b60700b63}\\LauncherPrereqSetup_x64.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Launcher Prerequisites (x64)",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.0.0.0",
+    "Publisher": "Epic Games, Inc."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{441545C8-A190-41FC-8E3D-51E7F1CF4D84}",
+    "InstallLocation": "C:\\Program Files (x86)\\Citrix\\ICA Client\\",
+    "DisplayName": "Citrix Workspace(DV)",
+    "InstallDate": "20230222",
+    "Hive": "x64",
+    "DisplayVersion": "23.2.0.9",
+    "Publisher": "Citrix Systems, Inc."
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "E:\\SteamLibrary\\steamapps\\common\\The Sims 4",
+    "DisplayName": "The Sims™ 4",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": "Electronic Arts, Inc."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{4D46B3A6-67F5-4385-86D2-8E769EA07827}",
+    "InstallLocation": "C:\\Program Files (x86)\\Citrix\\ICA Client\\",
+    "DisplayName": "Citrix Screen Casting for Windows",
+    "InstallDate": "20220527",
+    "Hive": "x64",
+    "DisplayVersion": "19.11.100.48",
+    "Publisher": "Citrix Systems, Inc"
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{4e2b05b0-eb08-41e5-9eb3-cdcc43d6bee0}\\AacExtCardSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "ASUS AURA Extension Card HAL",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.1.0.18",
+    "Publisher": "ASUSTeK COMPUTER INC."
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": "",
+    "DisplayName": "AppProtection",
+    "InstallDate": "20230222",
+    "Hive": "x64",
+    "DisplayVersion": "23.2.0.6",
+    "Publisher": "Citrix Systems, Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{549da357-1b81-456b-83f2-dcc47c41dfff}\\AacPhisonSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "PHISON HAL",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.0.9.0",
+    "Publisher": "PHISON Electronics Corp."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{56EEEF7D-0AE3-401A-898B-581719D005AE}",
+    "InstallLocation": "",
+    "DisplayName": "AURA Service",
+    "InstallDate": "20230313",
+    "Hive": "x64",
+    "DisplayVersion": "3.06.20",
+    "Publisher": "ASUSTeK Computer Inc."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{5720EC03-F26F-40B7-980C-50B5D420B5DE}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.31.31103",
+    "InstallDate": "20220814",
+    "Hive": "x64",
+    "DisplayVersion": "14.31.31103",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{65d171c6-aa4e-40a1-a1dd-db20d21ed59f}\\AacGmAccSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "ASUS Aac_GmAcc HAL",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.0.11.0",
+    "Publisher": "ASUSTek COMPUTER INC."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{68FF1A30-1B87-4591-BC13-A8EF0A87C475}",
+    "InstallLocation": "",
+    "DisplayName": "Citrix HDX RealTime Media Engine 2.8",
+    "InstallDate": "20220527",
+    "Hive": "x64",
+    "DisplayVersion": "2.8.0.2235",
+    "Publisher": "Citrix Systems, Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{69f930f0-cd00-4a0c-b1b7-bfddf47f894d}\\AuraServiceSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "AURA Service",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "3.06.20",
+    "Publisher": "ASUSTeK Computer Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{6b617af3-c8f4-45a8-bf47-b32ffb4da1cc}\\AacSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "ENE_EHD_M2_HAL",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.0.10.1",
+    "Publisher": "ENE TECHNOLOGY INC."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{6D00D7E5-31A3-4122-82E8-32791FF475A3}",
+    "InstallLocation": "",
+    "DisplayName": "Citrix Web Helper",
+    "InstallDate": "20230222",
+    "Hive": "x64",
+    "DisplayVersion": "23.2.0.21",
+    "Publisher": "Cloud Software Group, Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\InstallShield Installation Information\\{6EE02C78-E908-493B-B1A6-D64AFC53002F}\\setup.exe\" -runfromtemp -l0x0409  -removeonly",
+    "InstallLocation": "C:\\Program Files (x86)\\ASUS\\ArmouryDevice\\dll\\",
+    "DisplayName": null,
+    "InstallDate": "20230313",
+    "Hive": "x64",
+    "DisplayVersion": "1.00.0000",
+    "Publisher": "ASUSTek Computer Inc."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{710f4c1c-cc18-4c49-8cbf-51240c89a1a2}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2005 Redistributable",
+    "InstallDate": "20221106",
+    "Hive": "x64",
+    "DisplayVersion": "8.0.61001",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{7160DA8D-3F25-4F6E-ABC8-F693551D82FA}",
+    "InstallLocation": "",
+    "DisplayName": "GameSDK Service",
+    "InstallDate": "20220907",
+    "Hive": "x64",
+    "DisplayVersion": "1.0.5.0",
+    "Publisher": "ASUSTek COMPUTER INC."
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\GOG Galaxy\\unins000.exe\"",
+    "InstallLocation": "C:\\Program Files (x86)\\GOG Galaxy\\",
+    "DisplayName": "GOG GALAXY",
+    "InstallDate": "20220507",
+    "Hive": "x64",
+    "DisplayVersion": "2.0.60.2",
+    "Publisher": "GOG.com"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{799E3FFF-705C-461F-B400-6DE27398B3E5}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.31.31103",
+    "InstallDate": "20220814",
+    "Hive": "x64",
+    "DisplayVersion": "14.31.31103",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{7a0d5159-cb5e-4f66-91f8-bab46f864f14}\\AacVGASetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "ASUS AURA VGA Component",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "0.0.4.3",
+    "Publisher": "ASUSTek COMPUTER INC. "
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{7f329536-2468-4b20-88dc-5e2defcd5ff3}\\AacSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "ENE RGB HAL",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.1.40.3",
+    "Publisher": "Ene Tech."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{8d173101-98c1-4e92-97c6-47c6840745a7}\\windowsdesktop-runtime-6.0.16-win-x64.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Microsoft Windows Desktop Runtime - 6.0.16 (x64)",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "6.0.16.32327",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "C:\\Program Files (x86)\\InstallShield Installation Information\\{93795eb8-bd86-4d4d-ab27-ff80f9467b37}\\Setup.exe -uninstall",
+    "InstallLocation": null,
+    "DisplayName": "ASUS Motherboard",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "3.03.09",
+    "Publisher": "ASUSTek Computer Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{959e5696-0edd-4896-b1d8-54aaa725f770}\\AacPatriotM2Setup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Patriot Viper M2 SSD RGB",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.1.0.2",
+    "Publisher": "Patriot Memory"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{9BE518E6-ECC6-35A9-88E4-87755C07200F}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+    "InstallDate": "20221109",
+    "Hive": "x64",
+    "DisplayVersion": "9.0.30729.6161",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{A92DAB39-4E2C-4304-9AB6-BC44E68B55E2}",
+    "InstallLocation": "",
+    "DisplayName": "ASUS Update Helper",
+    "InstallDate": "20221031",
+    "Hive": "x64",
+    "DisplayVersion": "1.3.107.93",
+    "Publisher": "ASUSTeK Computer Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{a9913343-8463-4fd2-8a33-ae89cbbfe139}\\AacSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Kingston AURA DRAM Component",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.1.18",
+    "Publisher": "KINGSTON COMPONENTS INC."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{ABAB33DE-1F6B-431A-B72B-0E1E31AD1E2A}",
+    "InstallLocation": "",
+    "DisplayName": "Citrix Workspace Inside",
+    "InstallDate": "20230222",
+    "Hive": "x64",
+    "DisplayVersion": "23.2.0.15",
+    "Publisher": "Citrix Systems, Inc."
+  },
+  {
+    "UnisntallString": "RunDll32 C:\\PROGRA~2\\COMMON~1\\INSTAL~1\\engine\\6\\INTEL3~1\\Ctor.dll,LaunchSetup \"C:\\Program Files (x86)\\InstallShield Installation Information\\{AF8D8D0D-1262-4368-895E-44DA5632CD7B}\\Setup.exe\" -l0x9 ",
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{B175520C-86A2-35A7-8619-86DC379688B9}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030",
+    "InstallDate": "20220710",
+    "Hive": "x64",
+    "DisplayVersion": "11.0.61030",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{B98847DA-3DE4-4F10-B02E-9E3EA01600A4}",
+    "InstallLocation": "",
+    "DisplayName": "Zoom Plugin for Citrix Receiver",
+    "InstallDate": "20220527",
+    "Hive": "x64",
+    "DisplayVersion": "5.7.20822",
+    "Publisher": "Zoom Video Communications, Inc."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030",
+    "InstallDate": "20220710",
+    "Hive": "x64",
+    "DisplayVersion": "11.0.61030",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "RunDll32 C:\\PROGRA~2\\COMMON~1\\INSTAL~1\\engine\\6\\INTEL3~1\\Ctor.dll,LaunchSetup \"C:\\Program Files (x86)\\InstallShield Installation Information\\{C0FEE440-FA2F-4C0D-B64C-35F1D4B7A009}\\Setup.exe\" -l0x9 ",
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{C3C2A5FB-4828-4A5C-A926-52541D2FF33E}",
+    "InstallLocation": "",
+    "DisplayName": "Online Plug-in",
+    "InstallDate": "20230222",
+    "Hive": "x64",
+    "DisplayVersion": "23.2.0.9",
+    "Publisher": "Citrix Systems, Inc."
+  },
+  {
+    "UnisntallString": "RunDll32 C:\\PROGRA~2\\COMMON~1\\INSTAL~1\\engine\\6\\INTEL3~1\\Ctor.dll,LaunchSetup \"C:\\Program Files (x86)\\InstallShield Installation Information\\{C740780B-F589-481C-8F59-A32735DEFCFF}\\Setup.exe\" -l0x9 ",
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{c8b4688a-f5d4-4236-aec4-df260a88ccc4}\\AacUHDRAMSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Universal Holtek RGB DRAM",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.0.0.4",
+    "Publisher": "PD"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{CA128AD3-FFFF-4B24-ACF2-E7D024C50D0E}",
+    "InstallLocation": "",
+    "DisplayName": "Zscaler",
+    "InstallDate": "20220527",
+    "Hive": "x64",
+    "DisplayVersion": "0.0.8894",
+    "Publisher": "Zscaler Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}\\vcredist_x64.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "11.0.61030.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\ASUS\\AI Suite III\\Setup.exe\" -u",
+    "InstallLocation": null,
+    "DisplayName": "AI Suite 3",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "3.01.10",
+    "Publisher": "ASUSTeK Computer Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{db747e10-c752-4e5a-b099-922800123b36}\\SetupChipset.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Intel(R) Chipset Device Software",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "10.1.18950.8298",
+    "Publisher": "Intel(R) Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{DEA5B549-F222-4B4D-9044-035534FB4A60}",
+    "InstallLocation": "C:\\Program Files (x86)\\Citrix\\ICA Client\\",
+    "DisplayName": "Citrix Workspace(USB)",
+    "InstallDate": "20230222",
+    "Hive": "x64",
+    "DisplayVersion": "23.2.0.9",
+    "Publisher": "Citrix Systems, Inc."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{e42c5874-37b0-4977-9e8d-70bf006e1f76}\\AacSetup.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "WD_BLACK AN1500",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.0.14.0",
+    "Publisher": "ENE TECHNOLOGY INC."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{E8019414-F222-40FF-8131-B02FC64BC67D}",
+    "InstallLocation": "",
+    "DisplayName": "Self-service Plug-in",
+    "InstallDate": "20230222",
+    "Hive": "x64",
+    "DisplayVersion": "23.2.0.21",
+    "Publisher": "Cloud Software Group, Inc."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /I{EC812286-929D-4402-AE5B-0C7CE548FF35}",
+    "InstallLocation": "",
+    "DisplayName": "BCR Plug-in",
+    "InstallDate": "20230222",
+    "Hive": "x64",
+    "DisplayVersion": "23.2.0.9",
+    "Publisher": "Citrix Systems, Inc."
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+    "InstallDate": "20220309",
+    "Hive": "x64",
+    "DisplayVersion": "10.0.40219",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": null,
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\Program Files (x86)\\InstallShield Installation Information\\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}\\Setup.exe\" -runfromtemp  -removeonly",
+    "InstallLocation": "C:\\Program Files (x86)\\Realtek\\Audio\\Drivers",
+    "DisplayName": "Realtek Audio Driver",
+    "InstallDate": "20221118",
+    "Hive": "x64",
+    "DisplayVersion": "6.0.9381.1",
+    "Publisher": "Realtek Semiconductor Corp."
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{f23d8111-a4c9-401f-9456-171fd17aac28}\\PowerToysSetup-0.69.1-x64.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "PowerToys (Preview) x64",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "0.69.1",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "RunDll32 C:\\PROGRA~2\\COMMON~1\\INSTAL~1\\engine\\6\\INTEL3~1\\Ctor.dll,LaunchSetup \"C:\\Program Files (x86)\\InstallShield Installation Information\\{F317FAB8-C628-44F9-9338-BFCF32DE685F}\\Setup.exe\" -l0x9 ",
+    "InstallLocation": null,
+    "DisplayName": null,
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": null,
+    "Publisher": null
+  },
+  {
+    "UnisntallString": "\"C:\\ProgramData\\Package Cache\\{f65db027-aff3-4070-886a-0d87064aabb1}\\vcredist_x86.exe\"  /uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "12.0.30501.0",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "MsiExec.exe /X{F8CFEB22-A2E7-3971-9EDA-4B11EDEFC185}",
+    "InstallLocation": "",
+    "DisplayName": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+    "InstallDate": "20220525",
+    "Hive": "x64",
+    "DisplayVersion": "12.0.21005",
+    "Publisher": "Microsoft Corporation"
+  },
+  {
+    "UnisntallString": "C:\\Program Files (x86)\\InstallShield Installation Information\\{fd36a871-5a75-4285-a469-61bbe3dbd858}\\Setup.exe -uninstall",
+    "InstallLocation": null,
+    "DisplayName": "Aura Wallpaper HTML",
+    "InstallDate": null,
+    "Hive": "x64",
+    "DisplayVersion": "1.4.7.1",
+    "Publisher": "ASUSTek Computer Inc."
+  }
+]
